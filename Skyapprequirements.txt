@@ -1,0 +1,7 @@
+tensorflow
+tensorflow-lite
+gradio
+opencv-python
+numpy
+astropy
+skyfield

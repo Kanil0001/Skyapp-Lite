@@ -1,0 +1,9 @@
+skymind-lite/
+ ├── app.py
+ ├── train_model.py
+ ├── requirements.txt
+ ├── data/
+ │    ├── orion/
+ │    ├── cassiopeia/
+ │    └── ursa_major/
+ └── model/
